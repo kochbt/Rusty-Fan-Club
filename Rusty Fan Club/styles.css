@@ -1,0 +1,48 @@
+header{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+header h1{
+    color: rgb(243, 144, 144);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    display: inline-block;
+    border-radius: 30px;
+}
+
+.banner{
+    top: 115px;
+    position: relative;
+    background-color: #c0d5e4;
+    max-width: 100%;
+}
+
+.banner img{
+    padding-top: .8%;
+    position: relative;
+    width: 35%;
+    left: 34%;
+}
+
+.banner .welcome{
+    position: absolute;
+    left: 0%;
+    top: 10%;
+    padding: 30px;
+}
+
+.banner h2{
+    font-size: 74px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.banner h2 span{
+    font-size: 1.2em;
+}
