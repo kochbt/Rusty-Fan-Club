@@ -87,6 +87,11 @@ nav li a{
     padding-right: 4px;
 }
 
+nav li a:hover{
+    color: rgb(243, 144, 144);
+    background-color: black;
+}
+
 nav li a.join{
     color: rgb(243, 144, 144);
     background-color: black;
@@ -109,6 +114,8 @@ article p{
 }
 
 .images{
+    background-color:  #f4f4f4;
+    border: solid #c0d5e4 1px;
     text-align: center;
     margin: 80px 0;
     /*white-space: nowrap;*/
