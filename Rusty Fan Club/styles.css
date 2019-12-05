@@ -24,7 +24,7 @@ header h1{
 }
 
 .banner{
-    top: 83px;
+    top: 79px;
     position: relative;
     background-color: #c0d5e4;
     max-width: 100%;
@@ -58,7 +58,7 @@ nav{
     padding: 15px;
     padding-bottom: 20px;
     position: sticky;
-    top: 83px;
+    top: 79px;
 }
 
 nav ul{
@@ -104,11 +104,7 @@ main{
     padding: 0px 40px;
     box-sizing: border-box;
 }
-/*
-article h2{
-    
-}
-*/
+
 article p{
     line-height: 2em;
 }
@@ -118,7 +114,6 @@ article p{
     border: solid #c0d5e4 1px;
     text-align: center;
     margin: 80px 0;
-    /*white-space: nowrap;*/
 }
 
 .images li{
